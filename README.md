@@ -3,6 +3,10 @@
 
 > Open this page at [https://bderrickstx.github.io/gitrepodemo12/](https://bderrickstx.github.io/gitrepodemo12/)
 
+## Documentation
+
+* [GitHub Account Creation Policy](./GITHUB_ACCOUNT_POLICY.md) - Information about GitHub's policies on account creation and rate limiting
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
